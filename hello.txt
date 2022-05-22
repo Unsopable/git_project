@@ -16,4 +16,8 @@ hello word! hello susu!
 hello word! hello susu!
 hello word! hello susu!
 hello word! hello susu!
+<<<<<<< HEAD
 hello word! hello susu! xixixiixi
+=======
+hello word! hello susu! heheheheh
+>>>>>>> hot-fix
